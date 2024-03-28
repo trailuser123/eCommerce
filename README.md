@@ -1,4 +1,4 @@
-# eCommerce
+# e-Commerce
 
 [![eCommerce Logo](https://cfe2-static.s3-us-west-2.amazonaws.com/media/courses/ecommerce/images/ecommerce_coding_for_entrepreneurs.jpg)
 ](https://www.codingforentrepreneurs.com/courses/ecommerce/)
